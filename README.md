@@ -6,7 +6,6 @@ This is my first learning project: a simple static website built with HTML5 and 
 
 - Semantic HTML5 markup
 - CSS styling with Flexbox
-- Responsive layout for mobile devices
 
 ## How to view
 
