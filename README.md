@@ -10,7 +10,7 @@ This is my first learning project: a simple static website built with HTML5 and 
 ## How to view
 
 Open `index.html` in your browser  
-or visit the live version on [GitHub Pages](https://oleksandrbezverkhyi.github.io/learn-html-css-first-site/)
+or visit the live version on [GitHub Pages](https://oleksandrbezverkhyi.github.io/learn-first-site-html-css/)
 
 ---
 
